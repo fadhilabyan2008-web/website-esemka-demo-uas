@@ -1,0 +1,6 @@
+{
+  "name": "SMK Negeri 2 Demak - Website Resmi Sekolah",
+  "description": "Website resmi profil, program keahlian, berita, galeri, dan informasi SMK Negeri 2 Demak. Sekolah vokasi unggul, berkarakter, dan siap menghadapi masa depan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
